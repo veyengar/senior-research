@@ -1,4 +1,18 @@
 Notes: 9/213/2016
 
+Hi Richie,
+Today I worked on testing stuff out with the Tango to see what it can do like you suggested. 
+
+
 Things I did today:
 1. Made sure git works from my laptop. Smh richard you haven't even pushed once.
+2. Tango developer site: https://developers.google.com/tango/
+3. Integrated ZenHub with GitHub. ZenHub is a chrome extension that helps with productivity and goal tracking. 
+4. Played around with the tango. Point cloud is a cool feature. Not sure what area tracking actually does.
+5. Wifi password is: tjhsstMoto
+6. Capture resolution with the Tango is rather low. Polygons look good. Smooth objects look more like polygons. Does better projecting things onto the space.
+Depth detection and motion capture are excellent. Definitely sufficient for our purposes. Not sure about the resolution though. We can get higher res images. 
+
+Richard:
+you should make sure you can commit and push to GitHub. Download Android Studio if you haven't. I'm going to get it on my laptop at home today. You should download 
+on your laptop as well if it can run. 
