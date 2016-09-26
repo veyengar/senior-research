@@ -1,0 +1,30 @@
+Notes: 9/26/2016
+Richard C.
+
+hEY buddy pal:
+
+wowiee my first time pushing something on git! excite
+
+Anyways, today I was looking at a few relevant links. Check them out:
+	Videos:
+	- https://www.youtube.com/watch?v=2y7NX-HUlMc
+	- https://www.youtube.com/watch?v=8dabG5NWbQU
+	- https://www.youtube.com/watch?v=lawxhnRhmeY
+
+	Code:
+	- https://developers.google.com/tango/apis/java/java-motion-tracking
+	- https://developers.google.com/tango/apis/java/java-area-learning
+	- https://developers.google.com/tango/apis/java/java-depth-perception
+
+ALSO, I have Android Studio on my laptop already, but I still need to configure git :/
+
+---
+
+Things to do for next class:
+
+1. Let's focus on finishing our Research Proposal- I have already shared
+a Google Doc with you so check your Drive if you haven't already.
+
+2. For our idea, I think that we should go ahead with your idea of just being able to
+put an image from your phone onto the wall. I think the next step would be putting up
+video, and then after that implementing graffiti. Tell me what you think.
