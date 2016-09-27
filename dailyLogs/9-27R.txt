@@ -25,3 +25,7 @@ For you:
 when we actually get into the REAL programming. But, right now, I would highly recommend taking a look @ the videos
 that I posted inside of the Research Project Proposal. Those actually explain how the Tango works, so its some
 pretty important background information.
+
+2) https://developers.google.com/tango/apis/java/
+Follow this link and download the sample project stuff (there's a section on that, and you can do it from Git!!)
+If you have enough time, go ahead and start the sample project.
