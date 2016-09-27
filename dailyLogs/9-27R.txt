@@ -1,0 +1,27 @@
+Notes: 9/27/2016
+Richard C.
+
+yO:
+
+Just a reminder to finish your Periodic Progress Check because it will be due at the end of your period!
+(if you didn't finish it like me, you will still have time to work on it!!1!11!!!!1!!1!)
+
+What I did today:
+1) Finished Periodic Progress Check
+2) Worked on Research Project Proposal:
+
+	- You can read more about my project idea under "Problem/Purpose/Engineering Goals"
+	  but TL;DR I want to implement an uploadable photo gallery AND at the very least have video working too.
+
+	- Finished a lot of Background.
+	  It's a lot of information about how the Tango actually works.
+	  You can move the information in the paragraphs around too.
+
+3) Pushed and pulled from Git.
+
+For you:
+
+1) You don't necessarily have to watch the videos that I linked to you last time- those should start being helpful
+when we actually get into the REAL programming. But, right now, I would highly recommend taking a look @ the videos
+that I posted inside of the Research Project Proposal. Those actually explain how the Tango works, so its some
+pretty important background information.
