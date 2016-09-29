@@ -1,0 +1,25 @@
+Daily Log: 9/27/2016
+Varun I.
+
+
+Hello Richard,
+
+Thanks for the reminder, I checked this last night and finished my progress report at home 
+thanks to you. 
+
+Things I did today:
+1) Turned in Periodic Progress Check
+
+2) Worked on Research Project Proposal:
+	
+	- Rewrote some parts of what you had, I left yours aboved and highlighted my proposed 
+	  changes, additions, etc. Lmk what you think about the changes
+	
+	- My purpose thing is way too long, keep what you think is important. 
+
+3) Installing Android Studio. GG
+
+4) Made a personal repo for testing. Idt we need to have the same test project right? I didn't 
+   want to put my testing stuff into the shared repo in case your testing stuff conflicts. So I 
+   made a new repository for my tango test project. I got it off of gitHub near the end of class.
+   Havent done much yet though.
