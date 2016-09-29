@@ -19,11 +19,12 @@ What I did today:
 	- TL;DR replaced my old paragraph with your third paragraph, moved your first two paragraphs to the end
 	  of "Background"
 
-2) Setting up feelsbad Studio
+2) Setting up feelsbad Studio. I ran into some problems with syncing and finding the Tango device and whatnot, but
+I fixed them all at the very end of class!!1!!!1111!!1!11!!!!
 
 3) I downloaded Tango AR Pets AND tangominoes! If you still need to download/troubleshoot some stuff for Android Studio like me, 
 you can play while you wait!!!
 
 For you:
 
-Do what you've been doing. Try to finish a Tango sample project. Maybe try the java_augmented_reality_example?
+Do what you've been doing (y). Try to finish a Tango sample project. Maybe try the java_augmented_reality_example?
