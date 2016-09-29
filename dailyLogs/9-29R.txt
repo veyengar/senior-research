@@ -1,0 +1,29 @@
+9/29/2016
+Richard C.
+
+hey varb:
+
+i hope u r having a gr8 day so far
+
+What I did today:
+1) Edited Research Proposal (read for important changes, TL;DR at very end)
+	- First thing I did is I removed my original paragraph and replaced it with the last paragraph of
+	  your revised version. Now it starts, "The purpose of this project..."
+
+	- You are probably wondering: "but richo, what happened to my other stuff?!?!?"
+	  Your other paragraphs have been moved to the end of the "Background" section. Specifically, they are the
+	  last 2 paragraphs. There is a connecting paragraph immediately before it to make the transition smoother.
+	  My rationale for moving your paragraphs is because I really wanted to keep them, but the "Purpose" section
+	  has a cap of 5 sentences. They seem to fit well into the "Background" section but lemme know if you disagree.
+
+	- TL;DR replaced my old paragraph with your third paragraph, moved your first two paragraphs to the end
+	  of "Background"
+
+2) Setting up feelsbad Studio
+
+3) I downloaded Tango AR Pets AND tangominoes! If you still need to download/troubleshoot some stuff for Android Studio like me, 
+you can play while you wait!!!
+
+For you:
+
+Do what you've been doing. Try to finish a Tango sample project. Maybe try the java_augmented_reality_example?
