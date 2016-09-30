@@ -12,3 +12,33 @@ What I did today:
 
 1) Looked at the project proposal. I like all the changes you made. Changed all instances of 'Artificial Reality'
 to 'Augmented Reality' which is the proper term. 
+	
+	- Rigorously edited your paper. FiTe Me LuQr
+	- Don't take it too harshly tho I didn't actually change that much T.T
+	- Correct me if I'm wrong but I think we should include current/previous research/projects that are related
+	  to ours in the Background section right?
+
+2) Began looking at the Sample Project. I created an Android Studio Project with the java_augmented_reality_example
+like you suggested. Had some problems with FeelsBad Studio
+
+	- Gradle Sync didn't work
+	- Stopping Gradle Sync didn't work either...
+	- Took like 5 years to build the project initially.
+	- FeelsBadStudio feels bad as usual
+	- When building the project, downloading gradle components took forever. I stopped it after like 4 minutes. 
+	 As a result. I couldn't do anything in the project because Gradle is broken.
+	- I suspect I will need to delete the project and rebuild it properly next class. I might try at home to get
+	  get some stuff working so I can test on Monday. Have to do that AI lab too rip.
+
+Things for you:
+
+Good job pulling and pushing from github! Make sure you are doing things in the right order. My usual Git process is 
+$ git status --> $ git add -A (that adds all, you can also do $ git add --all or git add "actualFileName.txt") --> 
+$ git commit -m "insert your message here" --> $ git pull (just gets like your log at this point) --> $ git push.
+
+Idk try working on the project ig. Im gonna work more on the proposal until I get FeelsBad Studio working.
+
+Have a good weekend ;).
+
+
+
