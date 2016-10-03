@@ -1,0 +1,15 @@
+10/3/2016
+Varun I.
+
+Hey richie,
+
+Hope your asking went well ;)
+
+Today I messed around with FeelsBad Studio for literally all of class. I learned how to 
+delete projects in Studio as well. You just go to the actual file location and delete 
+the files. Deleted entire Tango sample project. Rebuilding project still took forever. I think
+something might be wrong with my Android Studio itself. I recloned the entire repo. Gave up on 
+Augmented reality example. JK point cloud example doesnt work either! Idk what to do at this point
+Tell me which computer you use during class and I'll use it too to try to avoid this stuff.
+
+FeelsBad Studio Feels Bad.
