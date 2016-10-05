@@ -1,0 +1,22 @@
+10-5-2016
+Varun's Daily Log
+
+Hey Richard
+
+Something amazing happened today, FeelsBadStudio evolved into FeelsOkStudio!
+I finally got the Gradle working on ur machine. The problem was that I was saving my 
+projects on my M: drive instead of the C: drive! I ran a bunch of the examples. Here 
+are the results:
+
+- Video example shows that the tango's video input with tracking is not as hi res as 
+  normal video
+
+- Area perception example shows that tango gets decent coordinates for area, I'm not 
+  super sure how this works >.< you should check it out.
+
+- Depth perception cuts off at about 6 in to 1 foot. Anything closer registers as 0. 
+  Might have implications for our project. 
+
+I didn't spend much time on the writeup. Will take a look at that later.
+
+Have a good weekend! Maybe we'll see eachother. I don't have Mobile for another week!
