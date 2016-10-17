@@ -1,0 +1,35 @@
+10/17/16 
+
+Two logs in a row! Hope you had fun at hoco and enjoyed your chicken tenders and hamburger.
+So I am very tired from this weekend. I slept at like 2:30 last night. Mr. Kosek gave us 
+feedback on the paper, I'll add it in here.  We should talk about our project if/when we
+meet up on Wednesday. Tilt Tilt Tilt Boom ba boom boom x2. November is fast approaching.
+Your time grows short my friend. I'm in the mood to do some drawing today. OH we haven't 
+thought of a name yet! For a really basic implementation, we should make lke a little 
+TJ mobile lab logo or a small character or something and put it somewhere in the hall next
+to the Mobile Lab. That'd b cute. Also, we could use bluetooth beacons to transmit the 
+position and photo data if possible. So we could put a beacon outside the mobile lab, have
+an image there, and try to put it on the wall. Drawing some designs that say TJ Mobile Lab.
+Need to play with Augmented Reality example on the Tango this week to figure out how it 
+works. Should probably read some more ACM articles to get a better feel for it.
+
+What I did today:
+Talked to Mr. Kosek
+
+Drew pics.
+
+Wrote a bunch of notes/ideas
+
+Did absolutely nothing with the Tango.
+
+Too tired. 
+
+For you:
+
+Hf and try to finish ur proj by Nov 1st.
+Play w augmented reality example.
+
+Feedback wise, Mr. Kosek wants us to make sure everything flows and do our references in APA. 
+Other than that, he said its good.
+
+"Take hold of this moment. The Force is strong"
