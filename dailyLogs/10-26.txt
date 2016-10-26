@@ -1,0 +1,30 @@
+10/26/2016
+
+FINALLY fixed Git problems. My past logs are on there if you want to read the past xD.
+I'm sorry, I'll make sure my logs are in here from now on.
+
+
+Today:
+
+Discussion was good. Immalla didn't say anything tho so I guess it wasn't great. Kosek 
+enjoyed it. He is still hyped about our project. xD. Dreading today. CommonApp essay due,
+Math test tmrw. Art proj due tomorrow.
+
+The progress check is due next Tues/Wed! Gl hf
+
+Started using the pen tablet. Fun fun fun.
+
+Drawing layouts for the app. We shd rlly start coding soon.
+
+Also, that computer works fine. idk what you are talking about.
+
+I had Mr. Kosek check on it, he might talk to you tomorrow. Be less of an awkward teenager.
+
+Main layout idea first draft:  https://wireframe.cc/3mJo7w
+	if you hover over the orange dots you can see notes I added. 
+
+you shd probs be able to click view to see w/fullscreen so thatd b another layout bit its
+just a full screen thing.
+
+For the splash screen we can make a nice logo or something and have it show that with a small
+loading animation.
