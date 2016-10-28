@@ -1,0 +1,15 @@
+10/28/2016
+
+So we figured out that your computer has no network connection. I fixed android studio
+on my own computer! It was a lot easier the second time around. 
+
+I downloaded the Augmented Reality application but the tango has NO charge so I'm hoping
+it'll be charged next time. I started reading the code to figure out how things work. I
+think it'll be easy to make a basic implementation in like two weeks. We don't need unity
+Android Studio and the Rajawali framework has enough power to do everything we need.
+Check out the Tango augmented_reality_example if you have doubts. I think it'll be really 
+cool.
+
+
+Have a good weekend m8. 
+
