@@ -1,0 +1,21 @@
+11/10/2016
+Richard's Log
+
+i feel like Google's documentation for android studio is some ass but...
+
+What I did today:
+- we had 2 discussions back to back so that took up a good amount of time in class
+- worked some more on the camera preview... literally this is impossible lololol
+I uploaded my files to Github and I *kinda* know what I'm doing but Google's documentation is pretty unhelpful to anyone
+who is just learning to use Android Studio
+
+For you:
+- play around with that globe example if u wanna
+- design a logo
+- help figure out what the hell is going on with my code lol
+	- I'm stuck on the "Placing preview in a layout" portion. Not sure if I put the <activity> thing in the right place.
+	- Also, there are some issues with the CameraActivity class. It needs to access CameraPreview, but it can't without being
+	in the same file. But if it is in the same file, it needs to be a private class. But I think that if I change it to a
+	private class, the program won't work.
+	- Also, I can't figure out what "main" is in CameraActivity in the line setContentView(R.layout.main);
+	- Also can't figure out how to fix  mCamera = getCameraInstance();
