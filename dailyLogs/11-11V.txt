@@ -1,0 +1,26 @@
+11/11/2016
+Varun's Log
+
+So this github thing became a mess today. I can't open your zip file properly
+in Android Studio. I made a new repo just for the android studio project. Can 
+you put your thing in there not as a zip file but just as a normal project? Then
+I can import from version control on Android Studio and I think it'll work a lot
+better. 
+
+What I did today:
+
+- Messed around with your zip file and AS for all of class. Made no progress.
+- I think something is wrong with your zip file, I can't open it properly.
+- Literally nothing else fml
+
+
+For you:
+
+- Figure out how to collaborate on the project more easily, if we stopped having 
+  dumb issues like this we could make so much more progress..... :(
+- Try to get the camera thing working, that'd be nice.
+- If I can open the project and stuff I'll try to fix it up.
+
+Have a good weekend
+
+~Varb
