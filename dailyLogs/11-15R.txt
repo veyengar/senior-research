@@ -1,0 +1,26 @@
+11/15
+Richard's feelsbad Log
+
+What I did today:
+
+- shared a new repo with you yesterday called testproject
+lemme know if it works :/ feelsbad studio is pretty frustrating
+
+- kept working on the live camera preview...
+yea this is hard lol but I think I'll get it done by the end of November.
+
+For you:
+
+- lemme know if you can get the stuff in the testproject repo. if not, just talk to Mr. Kosek I guess
+	- if u got it to work, im still having some of the same issues:
+	  In CameraPreview.java, for some reason it doesn't know what main is and it doesn't know what getCameraInstance() is.
+	  I thought that getCameraInstance was part of the Camera class but I guess not :(
+	- also, ignore the fact that Camera is depreciated. I tried importing camera2, but it never worked and I read online that
+	  using the depreciated Camera should be fine. Also, we only need the camera to give us the view so it shouldn't be a big deal.
+
+- look into Rajawali. To use video, Rajawali utilizes the SurfaceTexture class. Right now, I am using SurfaceView just to get a camera
+preview, but it should be easily changed later. At the very least, we can still keep the Camera class.
+
+Relevant links:
+https://github.com/Rajawali/Rajawali/wiki/Tutorial-25-Video-Material
+https://developer.android.com/reference/android/graphics/SurfaceTexture.html
