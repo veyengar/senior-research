@@ -1,0 +1,13 @@
+11/16/2016
+
+ANDROID STUDIO FINALLY WORKED!
+
+ok so I'm past the bs setup phase. Downloaded some tango examples from google.
+Made a new public folder on the C: drive of YOUR COMPUTER so we don't have to screw
+around as much anymore. We should still push to Github tho for safety. I just decided
+to work on your computer from now on. Save stuff in that folder if you can. Its called
+"work". 
+
+Bro theres a sample called tango video overlay sample..check it out lol.
+
+
