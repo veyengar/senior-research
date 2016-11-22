@@ -1,0 +1,17 @@
+11/22
+Richard's log
+
+I haven't pushed my logs to git in a while, so I decided to copypasta them into this one log.
+
+What I did today:
+- I copied the tango video example into my own M: drive. Worked a bit on the interface, but so far, nothing really does anything.
+
+- The next step that I am trying to do is to use Rajawali to import a 3D object into the tango. I'm having some trouble tho-- I think it
+has to do with the way that I organized my files :/ gonna try to work through it
+
+- I moved a very very basic version of the app into the C: drive. My task for you is to try to program the view button so that
+when you press it, everything else disappears and the live feed from the camera takes up the entire screen. 
+	
+
+*feel free to change any of the existing code, since it is just there to help visualize what the interface might look like. 
+change it to actually work if you find that it is interfering with your plans*
