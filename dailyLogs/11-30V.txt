@@ -1,0 +1,19 @@
+11/30/2016 Varun's Log
+
+Worked on the project in the C drive today. Working through this example to get
+camera preview working: https://inducesmile.com/android/android-camera2-api-example-tutorial/
+Also got some stuff on Unity working but Tango was ded! Plz charge next time ty.
+
+What I did today. 
+Got a simple AR app in Unity. Can't run tho cuz Tango has no charge. 
+Worked on the app in the C drive, getting camera preview to work. Not done with that
+
+What you should do.
+Work on USC if you have to. Otherwise, keep going through the link I sent and add the 
+necessary methods to get the camera preview working. You can skip the stuff about 
+taking photos (I think) because we wont be taking photos.
+
+
+Also I want to take a moment to express my utter hatred for your keyboard.
+
+gl hf
