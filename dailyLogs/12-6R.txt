@@ -1,0 +1,17 @@
+12/6/2016
+Richard's Log
+
+lol haven't made a log in a while xd
+
+
+>>Today, I spent a really long time trying to program a button that would change the lighting from normal white light to green.
+
+>>Didn't work and was a pretty big waste of time, so I switched my efforts to making a button that could take a screenshot.
+
+>>It kind of works and it kind of doesn't. The thing with using a SurfaceView is that it has 2 parts, a surface and a view.
+The way that you actually get it to screenshot is pretty complicated... you can follow my research through this nice stackoverflow
+link: http://stackoverflow.com/questions/27817577/android-take-screenshot-of-surface-view-shows-black-screen
+
+
+>>I started working in a different file. File path is C:\work\tango-examples-java\java_augmented_reality_example
+>>This file path has the screenshot function I was talking about.
