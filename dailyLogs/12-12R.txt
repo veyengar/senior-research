@@ -1,0 +1,19 @@
+12/12/2016
+Richard's Log
+
+hey
+
+didn't have time to do much today, but i think i found a solution to our screenshot problem!
+https://github.com/Rajawali/Rajawali/issues/478
+
+i dont know where to put this code, but you might have a better idea of what to do.
+
+besides that, ive been trying to find a way to create a flat looking plane object and then adding an image on top 
+
+pretty sure that we need to get OpenCV or OpenGL SDK o do this type of stuff in Android Studio, so you should ask Mr. Kosek
+about whether or not this computer already has it installed (it is the end of class 4 me lolololol).
+
+relevant: http://docs.opencv.org/3.0-last-rst/doc/tutorials/introduction/android_binary_package/O4A_SDK.html
+
+
+so yea idk. do as much as u can for screenshot or help me out with creating that flat object. ty bb ;)

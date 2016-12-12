@@ -1,0 +1,17 @@
+12/8/2016
+Richard's Log
+
+What I did today:
+- I really thought that getting a button to take a screenshot would be no big deal, but I can't get it to work :/
+In my personal opinion, I think that this function is necessary, but I guess it isn't a priority right now.
+I just thought that it wouldn't take this long >.<
+	- My code for screenshots is at the very bettom of AugmentedRealityActivity.java
+	  I tried 2 different methods, and neither of them worked
+	- IMPORTANT: I changed the RajawaliSurfaceView to a RajawaliTextureView **it basically functions the same**
+	  just so you are not confused THE NAME OF THE TEXTUREVIEW IS STILL mSurfaceView
+	  also, you do NOT need to change it back if you don't want to... should still work the same
+
+For you:
+Spend like 30 min or less trying to fix my screenshot stuff :/ If you can't do it either, give up.
+After that, try to get a button that will let the user upload an image. SPECIFICALLY, we need a button that can store the file path.
+(y) gluck, i believe in u more than i believe in myself :')
