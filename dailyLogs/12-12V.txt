@@ -1,0 +1,19 @@
+12/12/16
+
+Varun's Log
+
+So I can't find an onDrawFrame() method so I'm not sure what to do about the screenshot.
+Ask Mr. Kosek next class. 
+
+For rendering, the project already imports openGL. Go to the AugmentedRealityRenderer.java
+and look through it. That shows you how to render things. It's similar to Unity objects if
+you have ever used that. But yeah if you look through some Rajawali things you can def. 
+find how to make a plane and overlay an image. 
+
+I think a good goal for this week would be to get an image overlayed on a plane and take a
+screenshot of it. But we gotta focus.
+
+lmk what happens tmrw.
+
+
+~Varun
