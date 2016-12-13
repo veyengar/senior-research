@@ -1,0 +1,13 @@
+12/13/16
+Richard's Log
+
+yO! I GOT IT IN A PLANE! you might enjoy the picture i put on it ;)
+the sizing for this is kind of weird rn, so im working on getting the dimensions of the image to make it less nasty.
+the last step for this function would be to have a button that uploads the from the gallery. im pretty sure that the
+Tango has already attached the image to a physical location based on where u first hold up the Tango to... so we just
+need to find a way to store that or something.
+
+next step is getting that screenshot. couldn't ask mr. kosek today bc he was sicing some other group the entire time ;(
+i tried playing around with it and added an @override but i think it doesn't exist in the rajawali renderer :/
+
+just as a fair warning... sometimes the app crashes if it's running too long or if the device gets hot so ki o tsukete.
