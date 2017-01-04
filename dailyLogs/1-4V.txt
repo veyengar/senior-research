@@ -1,0 +1,22 @@
+1/4/2017
+Varun's Log
+
+High School Boys and Gallery Image Pickers
+
+Varun found a new and improved link:
+http://stackoverflow.com/questions/5309190/android-pick-images-from-gallery
+
+Varun implemented this code and now Richard can look at the photos on the device gallery
+and pick one! IDK what it does after tho. So I haven't done that bit yet. You might want 
+to ask Mr. Kosek a question along the lines of "how do I access that image using the 
+PICK_IMAGE_REQUEST thing that points to the result of the startActivityForResult method.
+I've commented pretty thiccc so u should get what I'm saying.
+
+Varun didn't rlly touch screenshot (Sorry). p exciting stuff happening tho. Lets go ham 
+for a while.
+
+O HEe SaAmA wa MiiiTeru Yo! I love the ending song.
+
+gl hf
+
+
