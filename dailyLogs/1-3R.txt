@@ -1,0 +1,31 @@
+1/3/2017
+Richard's Log
+
+it's a new year bb
+new year new me(mes)
+
+took a while for me to find exactly where i left off but just as a recap so that you can jump right into the project:
+- on the last episode of the "Web/Mobile App Development" anime, Richard-kun had just finished turning the sphere in
+the augmented reality project into a plane! he also changed the texture of the plane to a very dashing image of his comrade
+Varun <3
+- again, last episode's work is under work/tango-examples-java/java_augmented_reality_example
+(took me a while to find that)
+
+on this week's episode:
+#1 Richard gets started looking at ways for the user to upload their own images from the gallery. He discovered some relevant
+links:
+	- http://stackoverflow.com/questions/5309190/android-pick-images-from-gallery
+	- https://github.com/luminousman/MultipleImagePick
+
+The first link has some more solutions but the second link from github seems very interesting. tbh, we should just use the top
+solution from SO but if we have time at the very end, maybe think about incorporating that second link (i doubt we will tho lmao)
+
+--
+UPDATE: started working with some of the solutions in the first link. ran into a "Cannot resolve symbol" error.
+under AugmentedRealityActivity.java, look at line 150.
+--
+
+#2 screenshot is still in the works but not really a priority. image upload from user seems like a more pressing issue at this time.
+
+hai hai, this class' episode is over! tune in on thursday to catch more!
+"kono bangumi wa goran no suponsaa no teikyou de okuri shimasu" (thanks to our sponsors)
