@@ -1,0 +1,18 @@
+1/5/2017
+Richard's Log
+
+What I did today:
+Worked on the uploading images stuff today. I did the onActivity stuff and I think that part works, and I managed to get
+the image URI and I'm trying to save it into the drawable folder (see comments). Afterwards, I need to go back to the renderer file and
+add a method that can change the texture. grind xd
+
+lines that i added today:
+line 347 (start of onActivity)
+line 170 in Renderer (start of method to change texture; don't look at the content here bc it is whack)
+
+--
+
+for you:
+I think you should work on saving the URI to the drawable folder. After that, I can get it to work through the Renderer.
+Otherwise, work on screenshot function (y)
+ganbatte ne!
