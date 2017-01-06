@@ -1,0 +1,12 @@
+1/6/2017
+HighSchool Boys and Google
+
+Hello Richard, Hope you had a good weekend!
+
+We CANNOT save a file to res/Drawable. The APK is read-only at runtime. The plan according to koseku sensei is
+to save to Internal Storage and get it from there. Internal storage is our APP's storage space on the user's 
+device. This should be good I think. https://developer.android.com/guide/topics/data/data-storage.html#filesInternal
+
+So I'm pretty sure I got it to save the URI in the internal storage. Now we need to figure out how to let the Renderer
+know this. If the Renderer can be told to check something/somewhere to see if the user has chosen a piece they want to
+display, it can be changed to get the image from internal storage. 
