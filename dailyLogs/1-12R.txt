@@ -1,0 +1,12 @@
+1/12/17
+Richard's Log
+
+seems like you are the only one who can log into that computer... both me and mr kosek tried today and it didn't work ;(
+
+What I did today:
+- our project now works on another computer!
+- line 391 on Activity should get the file, here is the reference link: http://stackoverflow.com/questions/14768191/how-do-i-read-the-file-content-from-the-internal-storage-android-app
+
+for you:
+so, we have the file now and all we need to do is write a method in tango that can change the current texture to the picture
+so the argument for this method will take a file
