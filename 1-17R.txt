@@ -1,0 +1,14 @@
+1/17
+Richard's Log
+
+played rock paper scissors with alexa
+
+when we save to internal storage, i think we need to tweek it a bit to make it work for images.
+http://stackoverflow.com/questions/17674634/saving-and-reading-bitmaps-images-from-internal-memory-in-android
+
+added from line 417
+commented out lines 393 to 407
+added line 408
+
+sorry, log is short and not organized but I was researching a lot.
+also, progress log due next tuesday I think so we should get started on that.
