@@ -1,0 +1,17 @@
+1/13/2017
+
+Varun's FeelsBad Log
+
+Dear Richard. I was very unproductive today. RIP. Did some research but didn't amount 
+to anything. Tragedy. I'll try harder next week.
+
+
+I think the whole point of saving the user's choice image to internal storage is so we 
+can just pull it up in the other Activity. I'm not sure what is the best way to go about
+doing that is. Do whatever you think is best, I'll follow along.
+
+
+Hope you had a good weekend! I had 3 apps due..lmfao. 1 to go xd
+
+
+~varun
