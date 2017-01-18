@@ -1,0 +1,13 @@
+1/18/2017
+Varun's Log
+
+Ok so I figured out today that there is a hole bunch of stuff that we downloaded in the example that is like completely useless.
+Cleaned up a bit of it. Spent a long time on that. 
+
+It seems that the SaveToInternalStorageMethod doesnt work. More specifically, I put a toast in there but its never toasting. Try to see if you can fix that.
+
+Kosek sama is getting kinda sus at our lack of progress. We gotta get going.
+
+Ganbatte
+
+~Varun
