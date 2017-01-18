@@ -1,13 +1,15 @@
 1/18/2017
 Varun's Log
 
-Ok so I figured out today that there is a hole bunch of stuff that we downloaded in the example that is like completely useless.
-Cleaned up a bit of it. Spent a long time on that. 
+Ok so I figured out today that there is a hole bunch of stuff that we downloaded in the example that is like completely useless. It will also break our code if we do certain things.
+Cleaned up a bit of it. Spent a long time on that. Didn't know why code was just breaking until it told me.
 
-It seems that the SaveToInternalStorageMethod doesnt work. More specifically, I put a toast in there but its never toasting. Try to see if you can fix that.
+It seems that the SaveToInternalStorageMethod doesnt work. More specifically, I put a toast in there but its never toasting. Try to see if you can fix that.Maybe you can try puttin the 
+user image in a simple image view just to make sure we got it. That would b a good intermediate step. Maybe try that.
 
-Kosek sama is getting kinda sus at our lack of progress. We gotta get going.
+Kosek sama is getting kinda sus at our lack of progress. We gotta get going. Also, if you are looking for something to watch, I'd suggest Star Wars: The Clone Wars or Star Wars Rebels.
+both of those shows r p good. At least I liked em a lot.
 
-Ganbatte
+A simple act of generosity can fill a galaxy with hope.
 
 ~Varun
