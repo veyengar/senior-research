@@ -1,0 +1,20 @@
+1/19/2017
+Richard's Log
+
+T-1 days until President Trump!!!!!!!!!!
+
+What I did today:
+
+- added method on line 276 in renderer
+  it's a shot in the dark but here is what im aiming for:
+	1) activity calls the method loadimagefromstorage and passes in the path as an argument
+	2) loadimagefromstorage then sets the texture for a new earth and adds that earth to the scene
+
+^^to do the above, i made earthMaterial a private global variable at the top (line 70) and commented out an old line (line 108)
+
+- started working on the progress report. shared with u on docs.
+
+------------------
+
+well, a double rainbow is a phenomenon of optics that displays a spectrum of light due to the sun shining on droplets of moisture in
+the atmostphere; does that explain it?
