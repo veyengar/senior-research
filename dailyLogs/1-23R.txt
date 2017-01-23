@@ -1,0 +1,8 @@
+1/23/2017
+Richard's Log
+
+still working on fixing the generic code i copy-pasta'd
+in renderer, im not sure what imgPicker (line 283) is supposed to be referring to...
+i checked the comments on stack overflow but im still kind of lost: http://stackoverflow.com/questions/17674634/saving-and-reading-bitmaps-images-from-internal-memory-in-android
+
+other than that, i spiced up the progress report by adding some references
