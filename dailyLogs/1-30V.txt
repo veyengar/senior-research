@@ -1,0 +1,20 @@
+Varun's Log 
+1/30/2017
+
+So since today was a short day, I got us up and running on GitHub!! Theres a new repo called sr-project
+and I've invited you as a collaborator. The comp we currently work on is kinda messed up (as you know)
+and Kosek sama said when they came to fix it, it might mess up our stuff. So I moved it onto git. When 
+you work on the project, make sure you commit it to GitHub. There are three classes I plan to keep 
+working in during 2nd semester. BC, mobile, and AP Art. So we gotta keep going until we have something 
+worth showing. Think of the next feature we need. I've brainstormed a few and included them below:
+
+1) Location, this is big!
+2) Making the images kinda mesh with the walls, kinda related to location.
+3) Getting multiple images in there
+4) 3D images/videos
+
+Yeah, you should pick what to do next.
+
+Ganbatte neh, please pray for my BC grade :'( Not tryna get rescinded here.
+
+~Varun
