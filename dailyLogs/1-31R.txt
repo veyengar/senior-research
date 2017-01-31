@@ -1,0 +1,18 @@
+1/31/2017
+Richard's Log
+
+i think we should get started on area learning
+
+watch first (2x speed if u wanna): https://www.youtube.com/watch?v=8dabG5NWbQU
+scim briefly: https://developers.google.com/tango/overview/area-learning
+
+tango was undergoing a system update like all of class but let me summarize my findings:
+1) area learning works with an ADF and to get that, we have to use an app like explorer or https://play.google.com/store/apps/details?id=net.chucknology.tango.adftool
+
+2) after we get the ADF file, looks like we need to access the metadata but i have no clue how to do that lmao
+https://developers.google.com/tango/apis/java/java-area-learning
+^^this resource looks like the hello_area_description example in the tango folder; i dont think it will actually help us
+with what we want ://
+
+anyways, once u get the Tango, it would be nice if u used the explorer app to map out the mobile classroom
+also, you can download that ADF Tool bc that looks like it will come in handy
