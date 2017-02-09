@@ -1,0 +1,26 @@
+2/9/2017
+Richard's Log
+
+couldnt get much done feelsbad
+
+go to work folder -> tango-examples-java -> java_basic_examples -> hello_area_description
+that has some stuff about adf's but i cant get the gradle to work
+
+here is the documentation on adfs:
+https://developers.google.com/tango/apis/java/java-area-learning
+
+ik it doesnt work, but i tried sticking the first piece of code:
+try {
+    mConfig.putString(TangoConfig.KEY_STRING_AREADESCRIPTION, uuid);
+} catch (TangoErrorException e) {
+    // handle exception
+}
+
+into the top of the activity and then later deleted it. :///
+
+mr. kosek doesn't really know where to go from here either. he tried to help me actually find the adf files that we had saved on the tango.
+couldnt find them even after doing all this cmd stuff, even though we can see them in the adf tool app. also, explorer app can't
+locate them either, so literally no one knows where they went (tilTED).
+
+h o n e s t ly, i have no idea what the next step is. i thought that area learning would be straight forward but there is like 0 documentation
+on this.
