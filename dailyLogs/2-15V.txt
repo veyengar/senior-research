@@ -1,0 +1,20 @@
+2/15/2017
+Varun's Log
+
+I have no clue how to find the Tango files. There is almost nothing online. Wonderful. 
+Also, I didn't see any of the changes mentioned in your previous commit statement on the other repo. So yeah,
+not sure if you pushed anything or if something went wrong on my end.
+
+Inside of hello_area_description, there is a file called AdfUuidListViewActivity.java. Within that file, 
+There is a method alled private void exportAdf(String uuid) on line 220. This method appears to export the ADF.
+Maybe if we change the location it exports to, we can get the files? 
+
+Cleaned up our main files a bit, idk. Didn't know what the hell else to do. Hopefully we get stuff done in 8th
+today. 
+
+This link is ok: https://developers.google.com/tango/apis/unity/reference/class/tango/area-description#savecurrent
+If you scroll down, you'll find a method called ExportToFile. This is the method we wanna use I think. To get 
+the adf file. 
+
+
+~Varun
