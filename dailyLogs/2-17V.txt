@@ -1,0 +1,11 @@
+2/17/2017
+Varun's Log
+
+Made progress today!!!!!!!!!
+So I figured out how to load the ADF. Here is a good link: https://developers.google.com/tango/apis/java/reference/TangoAreaDescriptionMetaData#KEY_TRANSFORMATION
+That is the data in the ADF file, the one we want to use is the Transformation data. Look into that.
+
+
+
+Hope u had a good weekend.
+Varun
