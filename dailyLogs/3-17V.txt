@@ -1,0 +1,5 @@
+Varun Iyengar
+some pretty important stuff log 3-17
+
+Links: https://developers.google.com/tango/apis/java/java-user-permissions
+https://github.com/googlesamples/tango-examples-java/blob/master/java_basic_examples/hello_area_description/src/main/java/com/projecttango/examples/java/helloareadescription/AdfUuidListViewActivity.java
