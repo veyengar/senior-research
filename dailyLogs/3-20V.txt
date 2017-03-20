@@ -1,0 +1,12 @@
+Log 3-20-2017
+
+Bad News Log
+
+Yo Richie, Koseku sensei has determined that we need to make a new project and slowly bring in the stuff that
+worked in the past and build off of that. You should start with the augmented reality example activity. Maybe 
+start by removing the template stuff we dont need. Then bring in the basic stuff that we had before. Good luck,
+I will continue on wednesday and friday.
+
+~Varun 
+
+PS> leave a log u luqr
