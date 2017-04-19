@@ -1,0 +1,11 @@
+3/21/17
+Richard's Log
+
+- commented out some old code
+lines (260-287)
+
++ added permissions code
+lines (201-203)
+
++ added new importAdf method
+lines (149, 209-216)
