@@ -1,0 +1,146 @@
+Things that we added to the base java_augmented_reality_example project:
+
+line 117: private boolean mode = false;
+--> This was to keep track of whether we are in "interface mode" or "AR view mode"
+
+line 120: private static final int PICK_IMAGE_REQUEST = 1;
+--> variable we used as part of the method to let the user pick their own image
+
+line 128: UUID uuid = UUID.fromString("d3e1eea6-aa13-48f4-a785-a848f199b09a");
+    	  //UUID uuid = UUID.fromString("test");
+          TangoAreaDescriptionMetaData tangoAreaDescriptionMetaData = new TangoAreaDescriptionMetaData();
+_________________________________________________________________________________________________________
+
+in onCreate():
+
+line 141:  final Button button1 = (Button) findViewById(R.id.button2);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                RelativeLayout layout1 = (RelativeLayout) findViewById(R.id.overlay);
+                if (!mode) {
+                    button1.setText(R.string.back);
+                    layout1.setBackgroundResource(R.color.transparent);
+                    mode = true;
+                    //following line is to test the new importAdf method
+                    importAdf("d3e1eea6-aa13-48f4-a785-a848f199b09a");
+                } else {
+                    button1.setText(R.string.magic1);
+                    layout1.setBackgroundResource(R.color.midnight);
+                    mode = false;
+                }
+
+            }
+        });
+
+        //Varun's 1-4-17 Code to pick image from the gallery
+        final Button button3 = (Button) findViewById(R.id.button3);
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent();
+                intent.setType("image/*");
+                intent.setAction(Intent.ACTION_GET_CONTENT);
+                startActivityForResult(Intent.createChooser(intent, "Select Picture"), PICK_IMAGE_REQUEST);
+            }
+        });
+___________________________________________________________________________________________________________
+not sure if this next method does anything/works
+
+line 209: //method to importADF
+    //source: https://github.com/googlesamples/tango-examples-java/blob/master/java_basic_examples/hello_area_description/src/main/java/com/projecttango/examples/java/helloareadescription/AdfUuidListViewActivity.java
+    private void importAdf(String uuid){
+        try {
+            mTango.importAreaDescriptionFile(getFilesDir() + File.separator + uuid);
+            //not sure if getFilesDir() will work, but if we can save it in external storage,
+            //we can use getExternalFilesDir(null), which should work
+        } catch (TangoErrorException e) {
+        }
+    }
+
+__________________________________________________________________________________________________________
+line 397
+
+//richo's code 1/5/2017
+    //this is the onactivity that will do stuff with the image that the person selects
+    @Override
+    protected void onActivityResult(
+            int aRequestCode, int aResultCode, Intent aData
+    ) {
+        switch (aRequestCode) {
+            //specific case for the pick_image_request
+            //in the original URL, they had another case that I don't think we need
+            case PICK_IMAGE_REQUEST:
+                handleUserPickedImage(aData);
+                break;
+        }
+        super.onActivityResult(aRequestCode, aResultCode, aData);
+    }
+
+    private void handleUserPickedImage(Intent aData) {
+        if ((aData != null) && (aData.getData() != null)) {
+            //this is the image's URI, and im going to try to save the image to the drawable folder
+            //this is impossible^ APK is read only at runtime.
+            Uri _imageUri = aData.getData();
+            Bitmap bitmap = null;
+            try {
+                // Getting bitmap from URI. Do we know if the URI is correct??
+                bitmap = MediaStore.Images.Media.getBitmap(this.getContentResolver(),_imageUri);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            String fileName = "User_Image";
+            /*String user_image = _imageUri.toString();
+            //Necessary variables to write to internal storage as mentioned in the link i sent in
+            //the log.
+            try {
+                FileOutputStream fos = openFileOutput(fileName, Context.MODE_PRIVATE);
+                fos.write(user_image.getBytes());
+                fos.close();
+            } catch (FileNotFoundException e) {
+                Log.d(TAG, "File not found Exception");
+            } catch (IOException i) {
+                Log.d(TAG, "IOException");
+            }
+            //Android is crappy and doesn't support java 7+ so each exception has to be caught
+            //in its own catch block l m a o.
+*/
+            //line below is wrong bc this is a URI and we need a bitmap... my brain is ded rn so idk if we
+            //can even convert one type into the other
+            saveToInternalStorage(bitmap);
+            Context context = getApplicationContext();
+        } else {
+            // We didn't receive an image...
+            Log.d("Data", "no image received");
+        }
+    }
+
+    private String saveToInternalStorage(Bitmap bitmapImage) {
+        ContextWrapper cw = new ContextWrapper(getApplicationContext());
+        // path to /data/data/yourapp/app_data/imageDir
+        File directory = cw.getDir("imageDir", Context.MODE_PRIVATE);
+        // Create imageDir
+        File mypath = new File(directory, "profile.jpg");
+
+        FileOutputStream fos = null;
+        try {
+            fos = new FileOutputStream(mypath);
+            // Use the compress method on the BitMap object to write image to the OutputStream
+            bitmapImage.compress(Bitmap.CompressFormat.PNG, 100, fos);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                fos.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            } catch (NullPointerException e){
+                e.printStackTrace();
+            }
+        }
+        Log.d(TAG, "saved");
+        String path = directory.getAbsolutePath();
+        mRenderer.loadImageFromStorage(path);
+        return directory.getAbsolutePath();
+    }
+
